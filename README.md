@@ -22,4 +22,4 @@
 
 使用方式: `python AddTitleNumber.py a.md`
 
-备注：python使用python3版本
+备注：使用python3版本
