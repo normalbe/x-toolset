@@ -21,3 +21,5 @@
 [AddTitleNumber源码](/lib/AddTitleNumber.py)
 
 使用方式: `python AddTitleNumber.py a.md`
+
+备注：python使用python3版本
