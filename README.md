@@ -12,9 +12,9 @@
 
 ### 将幕布思维导图转成markdown并标上序号
 
-[addNumber源码](/lib/addNumber.py)
+[opml2Md源码](/lib/opml2Md.py)
 
-使用方式: `python addNumber.py a.md`
+使用方式: `python opml2Md.py a.opml`
 
 ### 为markdown标题添加序号
 
